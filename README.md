@@ -17,3 +17,10 @@
      4.5. Write a Python program that takes a text input and counts the frequency of each word. Display the result in a dictionary format.
      4.6. Write a Python function that takes a sequence of numbers and determines whether all the numbers are different from each other.
      4.7. Write a Python program to extract the year, month, date and time using Lambda. Input: 2020-01-15 09:03:32.744178
+---
+## Task 5: Introduction to Python
+     5.1. Write a Python function that takes a sequence of numbers and determines whether all the numbers are different from each other.
+     5.2. Write a Python program to add two positive integers without using the '+' operator
+     5.3. Write a Python program to find common divisors between two numbers in a given pair
+     5.4. Write a Python program to filter(even and odd) a list of integers using Lambda.
+     5.5. Write a Python program to extract the year, month, date and time using Lambda. Input: 2020-01-15 09:03:32.744178
